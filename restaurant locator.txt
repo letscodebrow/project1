@@ -1,0 +1,15 @@
+Title: restaurant locator
+
+description: it is a restaurant locator by cusine type.
+
+
+user story: as a food lover and undecisive person, I would like to locate a resturant by catergory and  see my options
+so that way i can pick a place to go eat.
+
+ api's:....in progress..............................
+
+
+issues created and assigned : RESTAURANT LOCATOR FOR undicisivce people.
+
+
+************************************this is subject to change ****************************************
